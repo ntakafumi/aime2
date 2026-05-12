@@ -1,5 +1,5 @@
 # AIME2 Experiments
-[![DOI](https://zenodo.org/badge/1236173904.svg)](https://doi.org/10.5281/zenodo.20130652)
+<a href="https://doi.org/10.5281/zenodo.20130652"><img src="https://zenodo.org/badge/1236173904.svg" alt="DOI"></a>
 
 This repository contains the executable notebooks used to reproduce the experiments reported in the manuscript:
 
