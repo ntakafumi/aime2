@@ -34,3 +34,10 @@ For licensing inquiries, please contact the author.
 ## Citation
 
 If you use this code, please cite the associated article and the Zenodo DOI of this repository.
+
+## Relationship to the original AIME framework
+
+This repository contains the experimental notebooks developed for the AIME2 manuscript.
+The earlier AIME framework is available separately at:
+
+https://github.com/ntakafumi/aime
